@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndriiLebid)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndriiLebid)](https://git.io/streak-stats)
 
 
 
