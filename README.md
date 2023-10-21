@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=AndriiLebid&style=flat-square&color=blue" alt=""/>
 </div>
-
+<div id="badges" align="center">
+<p>- 🌱 I’m currently learning Web and Mobile Application Development at New Brunswick Community College, Moncton</p>
+</div>
 
 
