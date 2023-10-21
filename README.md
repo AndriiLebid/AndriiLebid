@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=AndriiLebid&style=flat-square&color=blue" alt=""/>
 </div>
-<div id="badges" align="center">
+<div id="badges" align="center" style ="list-style-type: none">
   <ul>
     <li>🌱 I’m currently learning Web and Mobile Application Development at New Brunswick Community College, Moncton</li>
     <li>:mailbox: lebedav@gmail.com </li>
@@ -47,10 +47,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndriiLebid)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiLebid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
