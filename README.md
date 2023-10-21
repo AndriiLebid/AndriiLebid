@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </div><br>
 <div id="badges" align="center" style ="list-style-type: none"> 
    🌱 I’m currently learning Web and Mobile Application Development at New Brunswick Community College, Moncton
-</div>
+</div><br>
  <div id="badges" align="center" style ="list-style-type: none">   
     :mailbox: lebedav@gmail.com     
 </div><br>
