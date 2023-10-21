@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=AndriiLebid&style=flat-square&color=blue" alt=""/>
 </div>
-<div id="badges" align="center" style ="list-style-type: none">
-  <ul>
-    <li>🌱 I’m currently learning Web and Mobile Application Development at New Brunswick Community College, Moncton</li>
-    <li>:mailbox: lebedav@gmail.com </li>
-  <ul>    
+<div id="badges" align="center" style ="list-style-type: none"> 
+   🌱 I’m currently learning Web and Mobile Application Development at New Brunswick Community College, Moncton
+</div>
+ <div id="badges" align="center" style ="list-style-type: none">   
+    :mailbox: lebedav@gmail.com     
 </div>
 
 
