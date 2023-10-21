@@ -51,7 +51,8 @@ Here are some ideas to get you started:
 </div>
 
 <div id="header" align="center">
-https://github-readme-streak-stats.herokuapp.com/?user=AndriiLebid
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndriiLebid)](https://git.io/streak-stats)
+
 </div>
 
 
