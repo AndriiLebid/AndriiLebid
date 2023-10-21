@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/andrii-lebid">
+  <a href="https://www.linkedin.com/in/andrii-lebid/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <h1>
-  hey there
+  Welcome: 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
