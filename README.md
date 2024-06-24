@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/andrii-lebid" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<a href="https://yourpersonalwebsite.com" target="_blank">
+<a href="https://lebid.ca" target="_blank">
     <img src="https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=internet-explorer&logoColor=white" alt="website" style="margin-bottom: 5px;" />
 </a>
 </div>  
