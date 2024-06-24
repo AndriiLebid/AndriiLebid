@@ -34,7 +34,7 @@ I graduated in Web and Mobile Application Development at New Brunswick Community
 
 </td><td valign="top" width="50%">
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31q54kbeqyj7cbglrgci5cbp2fme&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31q54kbeqyj7cbglrgci5cbp2fme&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 </td></tr></table>  
 
