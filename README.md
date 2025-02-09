@@ -61,7 +61,7 @@ This repository is used as a data source for my JavaScript, fetching data from m
 <br/>  
 
 <div class="counter">
-<h3></h3>Github Stats</h3>
+<h3>Github Stats</h3>
 
 <table><tr><td valign="top" width="50%">
 
