@@ -17,7 +17,8 @@
 
 
 ### Glad to see you here!  
-I graduated in Web and Mobile Application Development at New Brunswick Community College, Moncton. Now that my studies are over, I am looking for a job and creating small projects for my portfolio.  
+I graduated in Web and Mobile Application Development at New Brunswick Community College, Moncton.
+
   
 
 <br/>  
