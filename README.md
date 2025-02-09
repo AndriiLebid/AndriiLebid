@@ -13,17 +13,15 @@
 </a>
 </div>  
   
-
-
 <div class="info">
-<h3>Glad to see you here!</h3> 
+<h3 align="center">Glad to see you here!</h3> 
 <p>I graduated in Web and Mobile Application Development from New Brunswick Community College, Moncton. 
 You can explore my open repositories on my GitHub profile.
 This repository is used as a data source for my JavaScript, fetching data from my GitHub profile and displaying it on my website.</p>
 </div> 
 
 <div class="repo">
-<h3>Repositories</h3>  
+<h3 align="center">Repositories</h3>  
 <table><tr><td valign="top" width="100%">
 
 <ul>
@@ -36,7 +34,7 @@ This repository is used as a data source for my JavaScript, fetching data from m
 <br/>  
 
 <div class="tools">
-<h3>Languages and Tools</h3>
+<h3 align="center">Languages and Tools</h3>
 <div class="tools-icons" align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
@@ -59,7 +57,7 @@ This repository is used as a data source for my JavaScript, fetching data from m
 <br/>  
 
 <div class="counter">
-<h3>Github Stats</h3>
+<h3 align="center">Github Stats</h3>
 
 <table><tr><td valign="top" width="50%">
 
