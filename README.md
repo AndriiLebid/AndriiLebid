@@ -25,16 +25,12 @@ I graduated in Web and Mobile Application Development at New Brunswick Community
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="80%">
 
 - 🌱 I have finished Simple Time And Attendance System on ASP.NET MVC, with API and mobile application for Android (Kotlin). 
   
 
 - 🔭 I'm working on the same topic but on JAVA with Spring Boot with Flutter mobile application.  
-
-
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
