@@ -1,4 +1,4 @@
-<h2 align="center">Hey 👋, I'm Andrii Lebid!</h2>  <br />
+<h2 align="center">Hey 👋, I'm Andrii Lebid!</h2>
   
 
 <div class="media" align="center">
@@ -21,8 +21,6 @@
 You can explore my open repositories on my GitHub profile.
 This repository is used as a data source for my JavaScript, fetching data from my GitHub profile and displaying it on my website.</p>
 </div> 
-
-<br/>  
 
 <div class="repo">
 <h3>Repositories</h3>  
