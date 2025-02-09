@@ -1,4 +1,4 @@
-<div align="center" style="font-weight: bold;">### Hey 👋, I'm Andrii Lebid!</div>  <br />
+<h2 align="center" style="font-weight: bold;">Hey 👋, I'm Andrii Lebid!</h2>  <br />
   
 
 <div class="media" align="center">
