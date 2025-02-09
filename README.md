@@ -1,4 +1,4 @@
-<h2 align="center" style="font-weight: bold;">Hey 👋, I'm Andrii Lebid!</h2>  <br />
+<h2 align="center">Hey 👋, I'm Andrii Lebid!</h2>  <br />
   
 
 <div class="media" align="center">
@@ -15,12 +15,12 @@
   
 
 
-
+<div class="info">
 ### Glad to see you here!  
 I graduated in Web and Mobile Application Development from New Brunswick Community College, Moncton. 
 You can explore my open repositories on my GitHub profile.
 This repository is used as a data source for my JavaScript, fetching data from my GitHub profile and displaying it on my website.
-  
+</div>div>  
 
 <br/>  
 
