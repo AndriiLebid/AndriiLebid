@@ -54,8 +54,6 @@ This repository is used as a data source for my JavaScript, fetching data from m
 </div>
 </div>
 
-<br/>  
-
 <div class="counter">
 <h3 align="center">Github Stats</h3>
 
@@ -69,21 +67,11 @@ This repository is used as a data source for my JavaScript, fetching data from m
 
 </td></tr></table>  
 </div>
-<br/>  
-
-  
-
-<br/>  
 
 <div class="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=AndriiLebid&&style=flat-square" align="center" />
 </div>  
-  
 
-<br/>  
-
-
-<br />
 
 ----
 <div class="authlink" align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
