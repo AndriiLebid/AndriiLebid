@@ -15,8 +15,8 @@
   
 <div class="info">
 <h3 align="center">Glad to see you here!</h3> 
-<p>I graduated in Web and Mobile Application Development from New Brunswick Community College, Moncton. </p>
-<p>You can explore my open repositories on my GitHub profile.
+<p align="justify">I graduated in Web and Mobile Application Development from New Brunswick Community College, Moncton. </p>
+<p align="justify">You can explore my open repositories on my GitHub profile.
 This repository is used as a data source for my JavaScript, fetching data from my GitHub profile and displaying it on my website.</p>
 </div> 
 
