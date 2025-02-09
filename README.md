@@ -59,7 +59,7 @@ This repository is used as a data source for my JavaScript, fetching data from m
 <div class="counter">
 <h3 align="center">Github Stats</h3>
 
-<table><tr><td valign="top" width="50%">
+<table align="center"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AndriiLebid&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
