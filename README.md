@@ -21,7 +21,7 @@ This repository is used as a data source for my JavaScript, fetching data from m
 </div> 
 
 <div class="repo">
-<h3 align="center">Repositories</h3>  
+<h3 align="center">My Repositories</h3>  
 <table><tr><td valign="top" width="100%">
 
 <ul>
