@@ -25,8 +25,10 @@ This repository is used as a data source for my JavaScript, fetching data from m
 <table><tr><td valign="top" width="100%">
 
 <ul>
-  <li>🌱 I have finished Simple Time And Attendance System on ASP.NET MVC, with API and mobile application for Android (Kotlin).</li>
-  <li>🔭 I'm working on the same topic but on JAVA with Spring Boot with Flutter mobile application. </li> 
+  <li>🌱 Completed Projects: Developed a Simple Time and Attendance System using ASP.NET MVC, including an API and a mobile application for Android (Kotlin).</li>
+  <li>🔭 Current Work: Working on a similar project using Java with Spring Boot, accompanied by a Flutter mobile application.</li> 
+  <li>🌱 Java Tasks: Occasionally tackle small Java tasks to prepare for interviews.</li>
+  <li>🔭 Old Portfolio: Created a portfolio (college project) using PHP and MySQL.</li>
 </ul>
 
 </td></tr></table>  
