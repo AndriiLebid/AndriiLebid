@@ -65,9 +65,5 @@
 </td></tr></table>  
 </div>
 
-<div class="counter" align="center">
-<img src="https://komarev.com/ghpvc/?username=AndriiLebid&&style=flat-square" align="center" />
-</div>  
-
 ----
 <div class="authlink" align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
