@@ -63,8 +63,7 @@ Glad to see you here!
 ---
 
 ## 🤝 Connect with me
-- ✉️ Email: your.email@example.com
-- 💼 LinkedIn: https://www.linkedin.com/in/AndriiLebid
+- 💼 LinkedIn: https://www.linkedin.com/in/andrii-lebid
 - 📝 Blog: https://lebid.ca
 
 ---
